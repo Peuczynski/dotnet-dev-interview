@@ -13,6 +13,7 @@ Clone this clean repository into your workspace, do some work and create pull re
 + WPF
 + Entity Framework
 + MS-SQL
++ C#
 
 **TODO:**
 ---
